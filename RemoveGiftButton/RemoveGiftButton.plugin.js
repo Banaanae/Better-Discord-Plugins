@@ -3,6 +3,7 @@
  * @author Banaanae
  * @authorId 467230314268196898
  * @description Removes the annoying gift button in the text area
+ * @source https://github.com/Banaanae/Better-Discord-Plugins/blob/main/RemoveGiftButton/RemoveGiftButton.plugin.js
  * @version 0.1
  */
 
